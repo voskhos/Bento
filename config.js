@@ -69,7 +69,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Mail',
-			icon: 'mail',
+			icon: 'mailbox',
 			link: 'https://mail.protonmail.com/',
 		},
 		{
@@ -144,24 +144,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'work',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Docs',
+					link: 'https://docs.google.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'GoQuiz',
+					link: 'https://alumnos.goquiz.es/index.html',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Mail',
+					link: 'https://mail.protonmail.com/inbox',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Notion',
+					link: 'https://www.notion.so',
 				},
 			],
 		},
@@ -170,20 +170,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Ao3',
+					link: 'https://archiveofourown.org/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'MangaDex',
+					link: 'https://mangadex.org/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Twitch',
+					link: 'https://twitch.tv/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Youtube',
+					link: 'https://www.youtube.com',
 				},
 			],
 		},
