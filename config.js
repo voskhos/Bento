@@ -32,14 +32,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '2511102', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
+	language: 'es', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '38.192360',
+	defaultLongitude: '-0.555180',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -49,8 +49,8 @@ const CONFIG = {
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
-	hourDarkThemeActive: '18:30',
-	hourDarkThemeInactive: '07:00',
+	hourDarkThemeActive: '21:00',
+	hourDarkThemeInactive: '09:00',
 
   	// Autochange automatically based on location (sunrise/sunset). Openweathermap API key required.
   	changeThemeByLocation: false,
